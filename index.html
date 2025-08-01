@@ -26,15 +26,15 @@
 
         /* Header & Navigation */
         header {
-            background: linear-gradient(135deg, #2a4d9b 0%, #1e3a8a 100%);
-            color: white;
+            background: white;
+            color: #2a4d9b;
             padding: 1rem 0;
             position: fixed;
             width: 100%;
             top: 0;
             z-index: 1000;
             backdrop-filter: blur(10px);
-            box-shadow: 0 2px 20px rgba(42, 77, 155, 0.3);
+            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
         }
 
         nav {
@@ -55,7 +55,7 @@
         }
 
         .nav-links a {
-            color: white;
+            color: #2a4d9b;
             text-decoration: none;
             font-weight: 500;
             transition: all 0.3s ease;
@@ -64,7 +64,7 @@
         }
 
         .nav-links a:hover {
-            background: rgba(255, 255, 255, 0.1);
+            background: rgba(42, 77, 155, 0.1);
             transform: translateY(-2px);
         }
 
@@ -481,10 +481,7 @@
                         <h3>Slow Time-to-Launch</h3>
                         <p>Custom builds delay new client onboarding campaigns by months, causing missed opportunities and frustrated teams.</p>
                     </div>
-                    <div class="problem-card fade-in">
-                        <h3>High Cost & Risk</h3>
-                        <p>Development is expensive, error-prone, and hard to iterate once live. Six-figure costs with uncertain outcomes.</p>
-                    </div>
+
                     <div class="problem-card fade-in">
                         <h3>Poor Client Conversion</h3>
                         <p>Rigid, outdated UX leads to incomplete submissions and drop-offs, directly impacting your bottom line.</p>
@@ -539,16 +536,13 @@
             <div class="container">
                 <div class="value-content">
                     <h2 class="section-title fade-in">Your Competitive Advantage</h2>
-                    <p class="value-highlight fade-in">Replace £500k+ custom dev projects with a predictable subscription model. Get enterprise-grade infrastructure, total brand control, and regulatory peace of mind.</p>
+                    <p class="value-highlight fade-in">Replace expensive custom development projects with a predictable, scalable solution. Get enterprise-grade infrastructure, total brand control, and regulatory peace of mind.</p>
                     <div class="stats-grid">
                         <div class="stat-card fade-in">
                             <div class="stat-number">Days</div>
                             <div class="stat-label">Launch Time</div>
                         </div>
-                        <div class="stat-card fade-in">
-                            <div class="stat-number">£100k</div>
-                            <div class="stat-label">Starting Price/Year</div>
-                        </div>
+
                         <div class="stat-card fade-in">
                             <div class="stat-number">100%</div>
                             <div class="stat-label">White Labelled</div>
@@ -567,19 +561,15 @@
                 <div class="contact-content">
                     <h2>Ready to Transform Your Client Onboarding?</h2>
                     <p>Join forward-thinking law firms who are already using Journey Builder to launch faster, convert better, and stay compliant.</p>
-                    <a href="mailto:hello@journeybuilder.co.uk" class="cta-button">Book a Demo</a>
+                    <a href="mailto:dan@journey-builder.com" class="cta-button">Book a Demo</a>
                     <div class="contact-info">
                         <div class="contact-item">
                             <strong>Email</strong>
-                            <span>hello@journeybuilder.co.uk</span>
-                        </div>
-                        <div class="contact-item">
-                            <strong>Phone</strong>
-                            <span>+44 (0) 20 7946 0958</span>
+                            <span>dan@journey-builder.com</span>
                         </div>
                         <div class="contact-item">
                             <strong>Location</strong>
-                            <span>London, UK</span>
+                            <span>Manchester, UK</span>
                         </div>
                     </div>
                 </div>
@@ -636,21 +626,6 @@
             button.addEventListener('mouseleave', function() {
                 this.style.transform = 'translateY(-3px)';
             });
-        });
-
-        // Header background on scroll
-        let lastScroll = 0;
-        window.addEventListener('scroll', () => {
-            const currentScroll = window.pageYOffset;
-            const header = document.querySelector('header');
-            
-            if (currentScroll > 100) {
-                header.style.background = 'linear-gradient(135deg, rgba(42, 77, 155, 0.95) 0%, rgba(30, 58, 138, 0.95) 100%)';
-            } else {
-                header.style.background = 'linear-gradient(135deg, #2a4d9b 0%, #1e3a8a 100%)';
-            }
-            
-            lastScroll = currentScroll;
         });
     </script>
 </body>
