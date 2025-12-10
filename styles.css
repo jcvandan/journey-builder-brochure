@@ -980,5 +980,39 @@ footer {
         gap: 1.5rem;
         text-align: center;
     }
+
+    .diff-visual {
+        overflow-x: auto;
+        width: 100%;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .comparison-card {
+        padding: 1rem;
+        min-width: 400px;
+        width: 100%;
+    }
+
+    .comparison-header {
+        grid-template-columns: 1.5fr 0.75fr 0.75fr;
+        gap: 0.5rem;
+    }
+
+    .comparison-header span {
+        font-size: 0.7rem;
+    }
+
+    .comparison-row {
+        grid-template-columns: 1.5fr 0.75fr 0.75fr;
+        gap: 0.5rem;
+    }
+
+    .comparison-row span:first-child {
+        font-size: 0.8rem;
+    }
+
+    .comparison-row span {
+        font-size: 0.75rem;
+    }
 }
 
