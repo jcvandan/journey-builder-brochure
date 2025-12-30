@@ -66,15 +66,15 @@
        y="-0.011693042" />
     <text
        xml:space="preserve"
-       style="font-weight:900;font-size:158.75px;font-family:Fraunces;-inkscape-font-specification:'Fraunces Heavy';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
-       x="13.952419"
-       y="157.16386"
+       style="font-weight:900;font-size:317.5px;font-family:Fraunces;-inkscape-font-specification:'Fraunces Heavy';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
+       x="87.452644"
+       y="261.12482"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-size:158.75px;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
-         x="13.952419"
-         y="157.16386">Inst</tspan></text>
+         style="font-size:317.5px;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
+         x="87.452644"
+         y="261.12482">I</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:900;font-size:105.833px;font-family:Fraunces;-inkscape-font-specification:'Fraunces Heavy';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
@@ -85,6 +85,6 @@
          id="tspan1-2"
          style="font-size:105.833px;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
          x="24.258757"
-         y="241.74165">ructd</tspan></text>
+         y="241.74165" /></text>
   </g>
 </svg>
