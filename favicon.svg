@@ -1,9 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700');
-    </style>
-  </defs>
-  <rect width="32" height="32" rx="6" fill="#1a2b4a"/>
-  <text x="16" y="23" font-family="Fraunces, Georgia, serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">JB</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="profile-square.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.5"
+     inkscape:cx="8"
+     inkscape:cy="669"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="1789"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1a2b4a;stroke-width:0.263266"
+       id="rect1"
+       width="300.04581"
+       height="300.02374"
+       x="-0.032417398"
+       y="-0.011693042" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:158.75px;font-family:Fraunces;-inkscape-font-specification:'Fraunces Heavy';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
+       x="13.952419"
+       y="157.16386"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:158.75px;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
+         x="13.952419"
+         y="157.16386">Inst</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:105.833px;font-family:Fraunces;-inkscape-font-specification:'Fraunces Heavy';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
+       x="24.258757"
+       y="241.74165"
+       id="text1-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="font-size:105.833px;fill:#ffffff;fill-opacity:1;stroke-width:1.26337"
+         x="24.258757"
+         y="241.74165">ructd</tspan></text>
+  </g>
 </svg>
